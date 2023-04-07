@@ -2,6 +2,6 @@
 
 Olá! Bem vindo ao meu livro de receitas
 
-	- Strogonoff de Frango
-	- Atum enlatado
+- Strogonoff de frango
+- Atum enlatado
 
